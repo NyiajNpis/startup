@@ -17,7 +17,7 @@ Users create verified accounts, submit locations and flavor options available th
 Chat DewPT, Doing the Dew in the right place.
 
 ## Layout Preview:
-![Sketch of the planned layout of Chat DewPT, added in markdown, with general sketches of text and icons, and their arrangement]()
+![Sketch of the planned layout of Chat DewPT, added in markdown, with general sketches of text and icons, and their arrangement](/ChatDewPTRoughSketch.jpg)
 
 
 
