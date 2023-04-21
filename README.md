@@ -31,3 +31,14 @@ Chat DewPT, Doing the Dew in the right place.
 
 
 --------------------------------------------------------------------
+
+
+## Setting up AWS Services: Amazon EC2
+
+I went through the process of setting up an account with AWS services. I also set up a server instance with the class ami OS installation of Ubuntu. It actually looks really familiar because of an ubuntu server I set up at home for minecraft.
+I also set up an elastic ip address. The one I set up is http://34.231.116.101/
+so that should be publicly accessible.
+
+I also created successfully a key pair that is stored on my laptop locally. I will have to transfer it over to my desktop via usb or something so I can do homework on that too.
+
+Super excited to make the website look gorgeous.
