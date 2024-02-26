@@ -4,10 +4,8 @@ Startup Application for CS 260
 This is a readme file for the startup application for CS 260 Web Development Class
 I am really looking forward to using different tools for this class and making a cool application
 
-
-# Elevator Pitch:
-## My Startup Application: Chat DewPT
-### The Elevator:
+# **My Startup Application: Chat DewPT**
+### **The Elevator:**
 College is hard, in fact **_life_** is hard. But one of the beautiful things that makes 
 both of those things easier is the divine elixir known as Mtn Dew. Not only is it 
 delicous and full of life giving caffeine, but it comes in a flavor fit for any mood. 
@@ -21,14 +19,14 @@ current with constant live updates so they won't EVER be sent on a wild Dew chas
 
 > Chat DewPT, Doing the Dew in the right place.
 
-### Layout Preview:
+### **Layout Preview:**
 
 
 ![Sketch of the planned layout of Chat DewPT, added in markdown, with general sketches of 
 text and icons, and their arrangement. Before and after the login would technically be different pages, but it will look similar to appear cohesive](https://github.com/NyiajNpis/startup/blob/main/StartupSketch.jpg)
 
 
-### Key Features:
+### **Key Features:**
 
 - Authenticated User Accounts over HTTPS
 - Display of current posts
@@ -37,7 +35,7 @@ text and icons, and their arrangement. Before and after the login would technica
 - Ability for Users to interact with other posts to upvote them
 - Ability for admin to delete offensive or inaccurate posts
 
-## Class Technologies
+### Class Technologies:
 - **HTML** - Basic structure and organization of icons and information. Three pages, one for login, one for adding new post, and one for viewing and interacting with existing posts
 - **CSS** - Styling and animating of Mtn Dew related text and icons, and animation of user interactions (changing button colors or adding likes
 - **JavaScript** - Interactivity to go through the login process, add posts, and interact with existing posts
