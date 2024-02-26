@@ -6,3 +6,14 @@ I learned a lot and began to use VS code. I really like the program, but I actua
 
 This is the startup readme file link... [readme file](https://github.com/NyiajNpis/startup/blob/main/README.md)
 See if that works
+
+
+
+Amazon AWS Notes
+That is the command for logging into the server with the console
+ssh -i Documents/School-Desktop/AWSDev/schoolkey.pem ubuntu@34.231.116.101
+
+my elastic IP is 34.231.116.101
+
+
+
