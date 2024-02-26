@@ -25,7 +25,7 @@ current with constant live updates so they won't EVER be sent on a wild Dew chas
 
 
 ![Sketch of the planned layout of Chat DewPT, added in markdown, with general sketches of 
-text and icons, and their arrangement. Before and after the login at the top, it would technically be a different page, but I want it to appear cohesive.](https://github.com/NyiajNpis/startup/blob/main/StartupSketch.jpg)https://github.com/NyiajNpis/startup/blob/main/StartupSketch.jpg
+text and icons, and their arrangement. Before and after the login would technically be different pages, but it will look similar to appear cohesive](https://github.com/NyiajNpis/startup/blob/main/StartupSketch.jpg)
 
 
 
