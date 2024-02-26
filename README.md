@@ -22,10 +22,10 @@ current with constant live updates so they won't EVER be sent on a wild Dew chas
 > Chat DewPT, Doing the Dew in the right place.
 
 ### Layout Preview:
-Sketch of the planned layout of Chat DewPT, added in markdown, with general sketches of 
-text and icons, and their arrangement. Before and after the login at the top, it would technically be a different page, but I want it to appear cohesive.
 
-![/StartupSketch.jpg]
+
+![Sketch of the planned layout of Chat DewPT, added in markdown, with general sketches of 
+text and icons, and their arrangement. Before and after the login at the top, it would technically be a different page, but I want it to appear cohesive.]/StartupSketch.jpg
 
 
 
