@@ -29,16 +29,31 @@ text and icons, and their arrangement. Before and after the login would technica
 
 
 ### Key Features:
+
 -Authenticated User Accounts over HTTPS
-
 -Display of current posts
-
 -Post updates including changes, current upvote count, and new posts shown in real time
-
 -User posts containing text showing a location and attached list selected from available flavors
-
 -Ability for Users to interact with other posts to upvote them
-
 -Ability for admin to delete offensive or inaccurate posts
+
+## Class Technologies
+- **HTML** - Basic structure and organization of icons and information. Three pages, one for login, one for adding new post, and one for viewing and interacting with existing posts
+- **CSS** - Styling and animating of Mtn Dew related text and icons, and animation of user interactions (changing button colors or adding likes
+- **JavaScript** - Interactivity to go through the login process, add posts, and interact with existing posts
+- **Service** - Endpoints for:
+  - retrieving current posts
+  - retrieving current dew flavors
+  - submitting likes
+  - retrieving current like status
+  - aproximate location of user ip - https://www.abstractapi.com/api/ip-geolocation-api
+- **DB/Login**  Store users, flavor options, posts, and likes in database. Register and login users. Credentials securely stored in database. Can't post or interact unless authenticated.
+- **WebSocket** - As each user posts or likes, those interactions are updated to all other users.
+- **React** - Application ported to use the React web framework.
+
+
+
+
+
 
 
