@@ -28,6 +28,11 @@ current with constant live updates so they won't EVER be sent on a wild Dew chas
 text and icons, and their arrangement. Before and after the login would technically be different pages, but it will look similar to appear cohesive](https://github.com/NyiajNpis/startup/blob/main/StartupSketch.jpg)
 
 
-
-
+### Key Features:
+-Authenticated User Accounts over HTTPS
+-Display of current posts
+-Post updates including changes, current upvote count, and new posts shown in real time
+-User posts containing text showing a location and attached list selected from available flavors
+-Ability for Users to interact with other posts to upvote them
+-Ability for admin to delete offensive or inaccurate posts
 
