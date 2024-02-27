@@ -83,7 +83,7 @@ text and icons, and their arrangement. Before and after the login would technica
 - check - Make sure your application is available from your production environment.
 - check - Upload the URL to your startup application to the Canvas assignment.
 
-Working on it
+Done
 
 
 
