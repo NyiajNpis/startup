@@ -62,7 +62,19 @@ text and icons, and their arrangement. Before and after the login would technica
   - check - Deploy to your production environment using the deployment script so that it is available with your domain's simon subdomain.
 - check - Create the HTML deliverable of your startup application. Make sure your name is displayed in the application and that there is a link to your GitHub repository.
 - check - Represent all of the content and structure that your final application will need.
-- Include placeholders for all of the technology that your application will eventually represent.
+  - added basic structure of the way the page with be arranged.
+  - included login page
+  - included post preview on login page, and full list of posts on linked page after login
+  - has like button for each post. Will include counter
+  - list of posts will be updated in real time
+  - posts contain location text, and flavor list
+  - post creator included a checkbox selector of available flavors
+  - users can interact with the posts only after login. On login page, they just error and say "please log in" if the user tries to interact with the preview
+  - Admin will be able to delete inaccurate posts, but users will not be able to remove them.
+- check - Include placeholders for all of the technology that your application will eventually represent.
+  - inlcuded buttons for interactions, and buttons to go between pages
+  - included placeholders for where data will be
+  - included placeholder for location api
 - Make sure your main HTML file is named index.html so that it will load by default.
 - Periodically commit and push your code to GitHub.
 - Periodically update your startup repository's notes.md file to reflect what you have learned and want to remember.
