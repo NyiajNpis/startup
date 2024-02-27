@@ -71,9 +71,7 @@ text and icons, and their arrangement. Before and after the login would technica
 - Make sure your application is available from your production environment.
 - Upload the URL to your startup application to the Canvas assignment.
 
-
-
-
+Working on it
 
 
 
