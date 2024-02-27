@@ -61,7 +61,7 @@ text and icons, and their arrangement. Before and after the login would technica
   - check - Debug using the browser's dev tools to examine the loading of the HTML on the Network tab, and the HTML in the Elements tab.
   - check - Deploy to your production environment using the deployment script so that it is available with your domain's simon subdomain.
 - check - Create the HTML deliverable of your startup application. Make sure your name is displayed in the application and that there is a link to your GitHub repository.
-- Represent all of the content and structure that your final application will need.
+- check - Represent all of the content and structure that your final application will need.
 - Include placeholders for all of the technology that your application will eventually represent.
 - Make sure your main HTML file is named index.html so that it will load by default.
 - Periodically commit and push your code to GitHub.
