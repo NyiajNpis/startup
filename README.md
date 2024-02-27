@@ -75,13 +75,13 @@ text and icons, and their arrangement. Before and after the login would technica
   - inlcuded buttons for interactions, and buttons to go between pages
   - included placeholders for where data will be
   - included placeholder for location api
-- Make sure your main HTML file is named index.html so that it will load by default.
-- Periodically commit and push your code to GitHub.
-- Periodically update your startup repository's notes.md file to reflect what you have learned and want to remember.
-- Push your final version of your project to GitHub.
-- Deploy your startup application to your production environment (your server).
-- Make sure your application is available from your production environment.
-- Upload the URL to your startup application to the Canvas assignment.
+- check - Make sure your main HTML file is named index.html so that it will load by default.
+- check - Periodically commit and push your code to GitHub.
+- check - Periodically update your startup repository's notes.md file to reflect what you have learned and want to remember.
+- check - Push your final version of your project to GitHub.
+- check - Deploy your startup application to your production environment (your server).
+- check - Make sure your application is available from your production environment.
+- check - Upload the URL to your startup application to the Canvas assignment.
 
 Working on it
 
