@@ -27,3 +27,7 @@ Adding links
 
 Large header format
 <h1>Brigham Bitner</h1>
+
+Adding images from a different location
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cybertruck-fremont-cropped.jpg/320px-Cybertruck-fremont-cropped.jpg" width="320">
+
