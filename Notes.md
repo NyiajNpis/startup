@@ -15,5 +15,15 @@ ssh -i Documents/School-Desktop/AWSDev/schoolkey.pem ubuntu@34.231.116.101
 
 my elastic IP is 34.231.116.101
 
+My leased domain is chatdewpt.net
+
+chatdewpt.net
 
 
+HTML Notes
+
+Adding links
+<a href="https://github.com/NyiajNpis/startup">My GitHub Repo</a>
+
+Large header format
+<h1>Brigham Bitner</h1>
