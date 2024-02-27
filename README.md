@@ -52,6 +52,22 @@ text and icons, and their arrangement. Before and after the login would technica
 
 
 
-
+### HTML Startup Work Checklist
+- Review and deploy Simon HTML
+  - Clone the HTML Simon repository to your development environment.
+  - Open the project in VS Code and examine the application's use of HTML.
+  - Execute in your development environment using the VS Code Live Server extension.
+  - Debug using the browser's dev tools to examine the loading of the HTML on the Network tab, and the HTML in the Elements tab.
+  - Deploy to your production environment using the deployment script so that it is available with your domain's simon subdomain.
+- Create the HTML deliverable of your startup application. Make sure your name is displayed in the application and that there is a link to your GitHub repository.
+- Represent all of the content and structure that your final application will need.
+- Include placeholders for all of the technology that your application will eventually represent.
+- Make sure your main HTML file is named index.html so that it will load by default.
+- Periodically commit and push your code to GitHub.
+- Periodically update your startup repository's notes.md file to reflect what you have learned and want to remember.
+- Push your final version of your project to GitHub.
+- Deploy your startup application to your production environment (your server).
+- Make sure your application is available from your production environment.
+- Upload the URL to your startup application to the Canvas assignment.
 
 
