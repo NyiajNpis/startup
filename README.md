@@ -52,6 +52,7 @@ text and icons, and their arrangement. Before and after the login would technica
 
 
 
+
 ### HTML Startup Work Checklist
 - Review and deploy Simon HTML
   - Clone the HTML Simon repository to your development environment.
@@ -69,5 +70,28 @@ text and icons, and their arrangement. Before and after the login would technica
 - Deploy your startup application to your production environment (your server).
 - Make sure your application is available from your production environment.
 - Upload the URL to your startup application to the Canvas assignment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
