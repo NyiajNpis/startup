@@ -29,4 +29,9 @@ Adding images from a different location
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cybertruck-fremont-cropped.jpg/320px-Cybertruck-fremont-cropped.jpg" width="320">
 
 
+CSS formatting files are very useful. It is cool how simple it is to add formatting to the assignment
 
+
+## Bootstrap Integration
+For future reference, to include Bootstrap in your application using NPM you would run the following from your console.
+npm install bootstrap@5.2.3
